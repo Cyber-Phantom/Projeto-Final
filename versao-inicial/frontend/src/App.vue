@@ -1,15 +1,13 @@
 <template>
-	<div id="app">
-		<h1>Versão Inicial</h1>
-	</div>
+  <div class="app">
+    <h1>Versão Inicial</h1>
+  </div>
 </template>
 
-<script>
-export default {
-	name: "App",
-}
+<script setup lang="ts">
+
 </script>
 
-<style>
+<style scoped>
 
 </style>
