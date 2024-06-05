@@ -36,3 +36,5 @@ knex migrate:latest
 =================
 
 https://www.npmjs.com/package/vue3-toastify
+https://mongoosejs.com/
+https://www.npmjs.com/package/node-schedule
